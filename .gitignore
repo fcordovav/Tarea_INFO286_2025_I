@@ -1,7 +1,9 @@
 # Ignorar la carpetas con los componentes de la creación del diagrama
 proceso_traffic_fines_files/
-proceso_traffic_fines_times_files
+proceso_traffic_fines_times_files/
+botella_traffic_fines_times_files/
 
 # Ignorar el archivos HTML
 proceso_traffic_fines.html
 proceso_traffic_fines_times.html
+botella_traffic_fines_times.html
